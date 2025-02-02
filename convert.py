@@ -1,5 +1,7 @@
 #
 # Author: Alan Ma
+# Firsst edit: 1/Feb/2025
+# Last edit:   2/Feb/2025
 # A program to convert Celsius temps to Fahrenheit
 
 def main():
